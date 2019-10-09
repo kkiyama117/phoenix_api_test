@@ -28,4 +28,4 @@ my_api-*.tar
 /priv/static/
 
 # editor
-.idea
+.idea/
